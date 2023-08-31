@@ -1,0 +1,12 @@
+GOOGLE_SERVICE_ACC_KEY:
+    type: service_account
+    project_id: "theta-arcana-396802"
+    private_key_id: "7ba06f0bdafdca3a78afe53d47b817e6fa6574d2"
+    private_key: "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDq/3HJfi4+q8ll\nGvpBDsYsgox9/oODfCzJJHiCVJVTioqbRFCGVYD3HirjMKoWLF9rp0wVkkfNG6rJ\nU9/fn3iHYNLSwEFVuuO0WJR1ECWET7fCacP88dliA5bV+4euw2OYJZQl8SnnSP3o\nXQqGKIJjGVo6SXckbutSsamYAdUMvbqVe7GYm5bTkoMpQ+P22ds3Ok+w3fBEFTnE\no1IR5kbf8pZmBS+es9lbEhhfXAqbtHrB0ZVUEFfSQT5WJvaaNfA9Sj4wugZREAiO\nQ89axN0+p8+RboXXnJkRt+EY5t/aE2Xwb4iRnL50Hj/9QpEU4AfmRfLrl/C+xDk7\nyi3wy2qjAgMBAAECggEAAVtxUksWxEjktF9IA7ksntQwMIgYRVmhvpWl1obbh+x8\naXInDueOg57ae45r5Q3jjTEdqOA75uzaeygvWlDG9u0xuoLevbqDFycN0HFD7jQx\nqP9IYP0alszTga/etD0vpZDN/rwaVFohEUb8SRMR0bWzRjPnar/zPvqEsrqL+vNY\nu7hZBv+fWh88jEXzE2c/bR0CDp0CfM/MuZRcIfnmJGVTWzLle/n7s9ItDAPDEwaL\nlr5GjfDfTyQZwShsulsHrkuRUzfucmEVIJ9H9KIKnusu/SFuZ0PCWg1eqX+YiseC\nlldu2jc0Q3OUSQWzshq9AWdK540qQ40W6JTPnwO4XQKBgQD29UEAXTUeU5CdRDwf\ngV8EDY0dOXtM7wRhhI7iDW7Y+LH1sf165k2KP7SA9A+GXOaCHRP1euxRXRyxgmEo\nNq38vQ6biFDQfQbzsNi9tyoqoxkJJXFWh8g9ZErDqFUMHfhdn0feBFwew+ws3ad7\nItRpWN38tS9NdbVkSdmDWeKL5wKBgQDzmhZXCvCMSYBC4wDEjvZj8DsdwWagv2Wz\nzxJD079hh5H1OyFIlvEtwoHdoYlUB5nQiyGGABSjXNrl7l4QJMs5SJqU7+5XGQD1\n88y/275fcWr9q57PeadNQ21O5xhk5aqCf89FVhdhW8H6Xi1eckJUZUyzBVN1JaYG\nNBMGA+jz5QKBgQCo5UCoVBag//u2YtVPorXt2qq44vgdvJXdb8Acf51gzG1BIJLA\nO8OqGjmDu+bmOKD5OZPN3lzCpJCcIhP6YbMKV+4mlsrWW7umbDs/PIadFGBp7e6e\nhEyBGBc9yuEnYVPcC7Ql9gteixX59Tm2sDJfPgTL8MpCCo+c4BjfiViz3wKBgCLT\nH2h4JuVXSJ/HRf/TlEO7PyhE0sAePJLVAn5x0gVGVUZimqJ++aGaEei2RCSgJYwb\np8I5Vrn3908xoX7bU7Yvu/GYz1DiQTHoFZhD+NY6J5p2I3DzqkgwYHsMLH+YGaUo\nUmBOK29+p598QS4kVXktNibNlx3DMRXn8eRFQNNFAoGAb3Sq4AKW2jP2Mt92kpxI\nFF0nnSWPiB9IfjyNJaIYZk3d05rJqkmSiFaXrPHP5j34ZyNfwJFwAwx4Qgq0Ks2/\nce1RATLK95eDEXr3GdqYdQNjryIZbZjNXR3TxG430r4r2oPcHax7b8bIEipQELc+\nj0pnHtvbKM/sojDtvikYaaU=\n-----END PRIVATE KEY-----\n"
+    client_email: "vm-to-bigquery-connection@theta-arcana-396802.iam.gserviceaccount.com"
+    auth_uri: "https://accounts.google.com/o/oauth2/auth"
+    token_uri: "https://oauth2.googleapis.com/token"
+    auth_provider_x509_cert_url: "https://www.googleapis.com/oauth2/v1/certs"
+    client_x509_cert_url: "https://www.googleapis.com/robot/v1/metadata/x509/vm-to-bigquery-connection%40theta-arcana-396802.iam.gserviceaccount.com"
+  GOOGLE_SERVICE_ACC_KEY_FILEPATH: "/path/to/your/service/account/key.json"
+  GOOGLE_LOCATION: US # Optional
