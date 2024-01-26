@@ -158,8 +158,32 @@ pip install -r requirements.txt
 ```
 Feel free to explore, contribute, or use the components provided in this repository for your data engineering projects!
 ## Tech Stack
+**Programming Language**
+- Python
 
-**Client:** React, Redux, TailwindCSS
+**Cloud Platform**
+- Google Cloud Platform (GCP)
 
-**Server:** Node, Express
+**Google Cloud Services**
+- Google Storage
+- Compute Instance
+- BigQuery
+
+**Data Pipeline Tool**
+- Mage AI
+
+**Data Visualization**
+- Looker Studio
+
+
+## Author
+
+- [@Anmol](https://github.com/anmol1512)
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://linktr.ee/AnmolChhetri2000)
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anmol1512/)
+
 
